@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nisanbudhathoki61
-- 👀 I’m interested in You Miss❤️‍🩹
+- 👀 Python
 
 <!---
 nisanbudhathoki61/nisanbudhathoki61 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
